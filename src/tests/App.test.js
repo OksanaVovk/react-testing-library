@@ -14,7 +14,7 @@ describe("App", () => {
     //   image is displayed when the first tab is selected
     const imageCard = screen.getByRole("img", { name: /.../i });
     expect(imageCard).toBeInTheDocument();
-    expect(imageCard).toHaveAttribute("src", "../../images/banner-cat2.png");
+    expect(imageCard).toHaveAttribute("src", "/images/banner-cat2.png");
     const header = screen.getByRole("heading", { level: 5 });
     expect(header).toHaveTextContent("Whiskers");
 
