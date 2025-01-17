@@ -1,7 +1,7 @@
 {
   "name": "react-testing-library-resolved",
   "version": "0.1.0",
-  "homepage": "https://oksanavovk.github.io/react-testing-library/",
+ "homepage": "https://oksanavovk.github.io/react-testing-library/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

@@ -2,7 +2,7 @@ function ImageCard() {
   return (
     <div className="card" style={{ width: "18rem", margin: "10px 0" }}>
       <img
-        src="../../images/banner-cat2.png"
+        src={process.env.PUBLIC_URL + "/images/banner-cat2.png"}
         className="card-img-top"
         alt="..."
       />
@@ -11,7 +11,7 @@ function ImageCard() {
         <p className="card-text">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut.
-        </p>        
+        </p>
       </div>
     </div>
   );
