@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-testing-library/static/css/main.c45cb3a0.css",
+    "main.js": "/react-testing-library/static/js/main.6bbde1cd.js",
+    "static/js/787.953dbd3d.chunk.js": "/react-testing-library/static/js/787.953dbd3d.chunk.js",
+    "index.html": "/react-testing-library/index.html",
+    "main.c45cb3a0.css.map": "/react-testing-library/static/css/main.c45cb3a0.css.map",
+    "main.6bbde1cd.js.map": "/react-testing-library/static/js/main.6bbde1cd.js.map",
+    "787.953dbd3d.chunk.js.map": "/react-testing-library/static/js/787.953dbd3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c45cb3a0.css",
+    "static/js/main.6bbde1cd.js"
+  ]
+}
